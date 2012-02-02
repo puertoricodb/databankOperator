@@ -1,0 +1,23 @@
+
+input, textarea, select{
+    background:transparent url(../images/input_bg.jpg) repeat-x 0 0 scroll;
+
+}
+
+input, textarea{
+   _width: 330px;
+}
+select{
+    _width:345px;
+    height:30px !important;
+}
+
+.submit input{
+    background:transparent url(../images/submit_bg.jpg) no-repeat 0 0 scroll;
+    outline:none;
+    border:none;
+}
+
+body{
+    color:#000;
+}
